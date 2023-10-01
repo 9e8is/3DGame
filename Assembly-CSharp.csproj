@@ -64,6 +64,7 @@
     <Compile Include="Assets\ZRNAssets\PQAssets\Query-Chan\Scripts\GUIControllerAttack.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
     <Compile Include="Assets\ZRNAssets\PQAssets\Query-Chan\Scripts\QueryAnimationController.cs" />
+    <Compile Include="Assets\Scripts\PauseUI.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
@@ -119,7 +120,6 @@
     <Compile Include="Assets\ZRNAssets\005339_08932_25_14\Scripts\FlyThroughController.cs" />
     <Compile Include="Assets\Scripts\SliderContr.cs" />
     <Compile Include="Assets\Scripts\Audio2.cs" />
-    <Compile Include="Assets\Scripts\Audio.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
   </ItemGroup>
   <ItemGroup>
